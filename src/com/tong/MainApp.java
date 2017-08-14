@@ -11,7 +11,7 @@ public class MainApp {
         CreateGetter cg = new CreateGetter();
         CreateMemberVariable cv = new CreateMemberVariable();
 //        cg.printGetter("F:\\javaTools\\table.xlsx",2,25);
-        cv.printMember("F:\\javaTools\\table.xlsx",2,25);
+        cv.printMember("F:\\javaTools\\table.xlsx",0,36);
 
     }
 }
