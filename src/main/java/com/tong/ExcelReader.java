@@ -13,12 +13,6 @@ import java.util.Map;
 
 public class ExcelReader {
 
-
-
-    public static void println(String str){
-        System.out.println(str);
-    }
-
     /** 读取Excel文件内容 */
     public ArrayList<ArrayList<String>> readExcel(String filePath, int sheetIndex,int rowNum) {
         ArrayList<ArrayList<String>> dataList = new ArrayList<ArrayList<String>> ();

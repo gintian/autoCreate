@@ -7,12 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="autoCreate" />
-        <module name="creatGetter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="autoCreate" target="1.5" />
-      <module name="creatGetter" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

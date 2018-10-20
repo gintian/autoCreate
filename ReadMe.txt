@@ -1,9 +1,11 @@
-IDE£ºIntellij IDEA
-ÏîÄ¿¹¹½¨¹ÜÀí £ºMavens
-Ë¼Â·£ºÊ¹ÓÃapacheµÚÈı·½jar°üpoi¶ÁÈ¡ExcelÎÄ¼ş£¬ÊÖ¶¯Æ´Ğ´³ÉËùĞè¸ñÊ½Êä³ö
-µ÷ÓÃ²ã´Î£º
-	MainApp.java Ö÷·½·¨
-	createX.java ½«¶ÁÈ¡Êı¾İÆ´³ÉËùĞè¸ñÊ½
-	ExcelReader.java ¶ÁÈ¡ExcelÎÄ¼ş³ÉÎªjava¿É±à¼­ÀàĞÍ
-
-
+IDEï¼š
+    Intellij IDEA
+é¡¹ç›®æ„å»ºç®¡ç†
+    Mavens
+æ€è·¯ï¼š
+    ä½¿ç”¨apacheç¬¬ä¸‰æ–¹jaråŒ…poiè¯»å–Excelæ–‡ä»¶ï¼Œæ‰‹åŠ¨æ‹¼å†™æˆæ‰€éœ€æ ¼å¼è¾“å‡º
+è°ƒç”¨å±‚æ¬¡ï¼š
+    MainApp.java ä¸»æ–¹æ³•
+        createX.java å°†è¯»å–æ•°æ®æ‹¼æˆæ‰€éœ€æ ¼å¼
+            ExcelReader.java è¯»å–Excelæ–‡ä»¶æˆä¸ºjavaå¯ç¼–è¾‘ç±»å‹
+            TxtReader.java è¯»å–TXTæ–‡ä»¶
